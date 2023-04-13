@@ -1,2 +1,2 @@
 # ShellScripts
-Place for shell scripts and configuration files such as bash, zsh, Vim, etc.
+A place to store shell scripts and configuration files for bash, zsh, Vim, etc.
