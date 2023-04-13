@@ -123,7 +123,7 @@ function pet-select() {
 }
 bind -x '"\C-x\C-r": pet-select'
 
-# 3つ下のレベル（階層）までのツリー表示
+# 3つ下の階層までをツリー表示
 alias tr3="tree -L 3"
 
 #### 42Tokyo ####
